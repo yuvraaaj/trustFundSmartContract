@@ -1,5 +1,5 @@
 # trustFundSmartContract
-An **Ethereum Smart Contract** to create a trust fund for future use of kids
+An **Ethereum Smart Contract** to create trust funds for my future kids.
 
 
 Created an **Ethereum Smart Contract** which has following functions:
