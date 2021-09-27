@@ -12,6 +12,3 @@ Code was also optimised to lower the gas fees.
 
 Deployed and tested on RemixIDE for Ethereum:
 ![ image ](https://i.imgur.com/7ElWiOt.png)
-
-
-Inspired by the Tutorial: https://www.youtube.com/watch?v=MTC8BHrmrJA
